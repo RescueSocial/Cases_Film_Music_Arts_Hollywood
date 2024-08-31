@@ -1,2 +1,3 @@
 # Cases_Film_Music_Arts_Hollywood
-500 Cases in Film, Music, Arts, Hollywood - Analysis to Support Legislative Improvements
+530 Cases in Film, Music, Arts, Hollywood - Analysis to Support Legislative Improvements.
+<br /> 430 Signal Cases in "All Cases" and 100 Control Group Cases in "Control Group Cases".
