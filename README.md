@@ -9,9 +9,9 @@
 <br>
 
 
-<i>Solutions? (Painting Easel Compared to Below)</i><br>
+<i>Solutions? </i><br>
 <img src="https://i5.walmartimages.com/asr/de9639da-dd49-44fd-8075-88e6b6eb10ea.396233b3d8c7e17e3fac98289853ebf5.jpeg" height=25% width=25%><br>
-
+<i>(Painting Easel Compared to Below)</i>
 
 ## <b>Starting Metaphoric Understanding to Cases:</b><br>
 <b>Illustrative of Cases Related to Visual & Performing Arts (Hollywood)</b><br> 
