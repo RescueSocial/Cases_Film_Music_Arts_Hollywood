@@ -8,10 +8,7 @@
 - Performing Arts have ways to express an opinion, emotion, feeling, or taste, through means of performance, like theater, speech, dance, music, and more. Performing Arts are arts or skills that require a performance in front of an audience. Examples are acting, singing, and dancing. Other forms of the Performing Arts include opera, theater, magic or illusion performances, mime, spoken word, recitation, and speaking. Performing Arts include conveying a message or artistic expression through their dialogue, voice, and their body.
 <br>
 
-
-<i>Solutions? </i><br>
 <img src="https://i5.walmartimages.com/asr/de9639da-dd49-44fd-8075-88e6b6eb10ea.396233b3d8c7e17e3fac98289853ebf5.jpeg" height=25% width=25%><br>
-<i>(Painting Easel Compared to Below)</i>
 
 ## <b>Starting Metaphoric Understanding to Cases:</b><br>
 <b>Illustrative of Cases Related to Visual & Performing Arts (Hollywood)</b><br> 
@@ -35,3 +32,5 @@
 ### <b>Magazine Page Layout Guides with Creation Emphasis</b><br>
 <i><b>"Magazine page layout is an art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience. Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework..."<br></i>
 </b>https://azuramagazine.com/articles/magazine-page-layout-what-you-need-to-know
+
+## <i>Solutions? </i>
