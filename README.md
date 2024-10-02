@@ -8,7 +8,7 @@
 - Performing Arts have ways to express an opinion, emotion, feeling, or taste, through means of performance, like theater, speech, dance, music, and more. Performing Arts are arts or skills that require a performance in front of an audience. Examples are acting, singing, and dancing. Other forms of the Performing Arts include opera, theater, magic or illusion performances, mime, spoken word, recitation, and speaking. Performing Arts include conveying a message or artistic expression through their dialogue, voice, and their body.
 
 ## Supporting Legislative Improvements</i>
-<i>Analysis of Elements for improvements Related to the Arts. With guides, assistance can find elements faster for remedies.</i>
+<i>Analysis of Elements for Improvements Related to the Arts. With guides, assistance can find elements faster for remedies.</i>
 
 ## <b>Starting Metaphoric Understanding to Cases</b><br>
 <b>Illustrative of Cases Related to Visual & Performing Arts (Hollywood)</b><br> 
