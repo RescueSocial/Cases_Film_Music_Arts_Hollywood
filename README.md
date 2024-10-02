@@ -10,7 +10,8 @@
 
 ## <i>Thousands of Cases... Solutions?
 <img src="https://i5.walmartimages.com/asr/de9639da-dd49-44fd-8075-88e6b6eb10ea.396233b3d8c7e17e3fac98289853ebf5.jpeg" height=25% width=25%><br>
-Beyond a single painting easel...</i>
+Beyond a single painting easel...</i><br>
+- Monopoly Traits: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a> (Cases)
 
 ## <b>Starting Metaphoric Understanding to Cases</b><br>
 <b>Illustrative of Cases Related to Visual & Performing Arts (Hollywood)</b><br> 
@@ -26,7 +27,6 @@ Beyond a single painting easel...</i>
 - View on Confidential Magazine Court Case <a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">From Faculty</a>
 <br><i>Maureen O'Hara gladly testified in California's case citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i> 
 - How Language Analysis Helps Solve Crimes https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
-- Monopoly Traits: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a> (Cases)
 - California Legislation Issues: <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
 <br>Faults of investigations with letters, Including Comparing Potential Witnesses only to Financial Objects<br></i>
 - American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</a>
