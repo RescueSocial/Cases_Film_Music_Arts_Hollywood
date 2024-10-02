@@ -9,7 +9,7 @@
 <br>
 
 <b>For Metaphoric Understanding:</b><br>
-Philadelphia Orchestra And Gold Film Reel<br>
+<i>Philadelphia Orchestra And Gold Film Reel... to Artists Center and Rock Band</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Z-Banner-Gold Reel - Philadelphia-Orchestra.png" height=65% width=65%><br>
 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists paintings.png" height=75% width=75%><br>
