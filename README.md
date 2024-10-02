@@ -1,4 +1,4 @@
-# Cases_Film_Music_Arts_Hollywood
+# Cases Film, Music, Arts, Hollywood
 519 Cases in Film, Music, Arts, Hollywood - Analysis to Support Legislative Improvements.
 <br /> 449 Hollywood Cases in "All Cases" including 99 Control Group Cases in "Control Group Cases".
 <br /> We are the first to do case analysis in the artistic/creative category that is accessible for improvements to help people. 
