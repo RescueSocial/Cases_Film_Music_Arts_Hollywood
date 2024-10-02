@@ -14,6 +14,6 @@ Philadelphia Orchestra And Gold Film Reel<br>
 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists paintings.png" height=75% width=75%><br>
 
-<img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=15% width=15%><br>
+<img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=20% width=20%><br>
 
 <i>Illustrative of Cases Related to Visual & Performing Arts</i>
