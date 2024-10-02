@@ -24,7 +24,7 @@ Beyond a single painting easel...</i><br>
 <b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b>
 <br>Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
 - View on Confidential Magazine Court Case of <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
-<br><i>Maureen O'Hara gladly testified in California's case citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
+<br><i>Maureen O'Hara <b>gladly testified</b> in California's case citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
 - Monopoly Traits: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a> (Cases)
 - How Language Analysis Helps Solve Crimes: https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
 - California Legislation Issues: <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
