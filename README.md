@@ -18,8 +18,9 @@
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Orchestra And Reel, Gold Film.png" height=65% width=65%><br> 
 <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf">Guide Comparison<a>:
 <b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b>
-<br>Maureen O'Hara gladly testified in California's case citing Confidential Magazine and Judge Walker allowed testimony about blackmail. Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
+<br>Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
 - View on Confidential Magazine Court Case <a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">From Faculty</a>
+<br><i>Maureen O'Hara gladly testified in California's case citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i> 
 - How Language Analysis Helps Solve Crimes https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
 - <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives and Monopoly</a> (Cases)
 - American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</a>
