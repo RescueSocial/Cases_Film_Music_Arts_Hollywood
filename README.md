@@ -23,7 +23,7 @@
 - How Language Analysis Helps Solve Crimes https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
 - <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives and Monopoly</a>
 - American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</a>
-- <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a> California Legislation: Faults of investigations with letters - Comparing Potential Witnesses only to Financial Objects<br></i>
+- California Legislation Issues: <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a> Faults of investigations with letters - Comparing Potential Witnesses only to Financial Objects<br></i>
 
 ### <b>Magazine Page Layout Guides, Creation Emphasis</b><br>
 <i>"Magazine page layout is an art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience. Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework."<br></i>
