@@ -10,7 +10,7 @@
 
 ## Illustrative of Cases Related to Visual & Performing Arts (Hollywood)<br> 
 <i>Artists Centers and Band Instruments for Live Music</i><br>
-<img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png" height=80% width=80%><br> 
+<img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png"><br> 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=20% width=20%><br>
 
 ### <b>For Metaphoric Understanding:</b><br>
