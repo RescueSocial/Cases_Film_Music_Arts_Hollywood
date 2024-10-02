@@ -8,13 +8,13 @@
 - Performing Arts have ways to express an opinion, emotion, feeling, or taste, through means of performance, like theater, speech, dance, music, and more. Performing Arts are arts or skills that require a performance in front of an audience. Examples are acting, singing, and dancing. Other forms of the Performing Arts include opera, theater, magic or illusion performances, mime, spoken word, recitation, and speaking. Performing Arts include conveying a message or artistic expression through their dialogue, voice, and their body.
 <br>
 
-## Illustrative of Cases Related to Visual & Performing Arts (Hollywood)<br> 
+## <b>For Metaphoric Understanding for Improvements:</b><br>
+<b>Illustrative of Cases Related to Visual & Performing Arts (Hollywood)</b><br> 
 <i>Artists Centers and Band Instruments for Live Music</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png"><br> 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=20% width=20%><br>
 
-## <b>For Metaphoric Understanding for Improvements:</b><br>
-<i>The Process: Orchestra And Gold Film Reel, In Perspective</i><br>
+<i>The Process - Orchestra And Gold Film Reel, In Perspective</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Orchestra And Reel, Gold Film.png" height=65% width=65%><br> 
 <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf">Guide Comparison<a>:
 <b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b>
