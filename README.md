@@ -8,12 +8,20 @@
 - Performing Arts have ways to express an opinion, emotion, feeling, or taste, through means of performance, like theater, speech, dance, music, and more. Performing Arts are arts or skills that require a performance in front of an audience. Examples are acting, singing, and dancing. Other forms of the Performing Arts include opera, theater, magic or illusion performances, mime, spoken word, recitation, and speaking. Performing Arts include conveying a message or artistic expression through their dialogue, voice, and their body.
 <br>
 
-<b>For Metaphoric Understanding:</b><br>
+## <b>For Metaphoric Understanding:</b><br>
+<i>Illustrative of Cases Related to Visual & Performing Arts</i>
 <i>Orchestra And Gold Film Reel In Perspective</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Orchestra And Reel, Gold Film.png" height=65% width=65%><br> 
-<i>Artists Centers and Live Music with Band</i><br>
+<i>Artists with Paintings and Band Instruments for Live Music</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png" height=80% width=80%><br> 
-
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=20% width=20%><br>
+<i><a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf"><b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b></a>
+Maureen O'Hara gladly testified in California's case citing Confidential Magazine and Judge Walker allowed testimony about blackmail. Other pages: Guides, Golden Era Television Writer, Movie Consultant.
+- View on Confidential Magazine Court Case from University http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html
+- How Language Analalysis Helps Solve Crimes https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
+- American Language Supplement https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun
+- Front Page Detectives and Monopoly: https://www.frontpagedetectives.com/celebrity-justice
+- <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a> California Legislation: Faults of investigations with letters - Comparing Potential Witnesses only to Financial Objects<br></i>
 
-<i>Illustrative of Cases Related to Visual & Performing Arts</i>
+<b>Magazine Page Layout Guides Creation Emphasis</b>
+https://azuramagazine.com/articles/magazine-page-layout-what-you-need-to-know
