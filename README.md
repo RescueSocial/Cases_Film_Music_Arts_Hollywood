@@ -13,4 +13,4 @@ Philadelphia Orchestra And Gold Film Reel<br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Z-Banner-Gold Reel - Philadelphia-Orchestra.png" height=65% width=65%><br>
 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=20% width=20%><br>
-<i>Add Other Images</i>
+<i>Add Other Metaphors</i>
