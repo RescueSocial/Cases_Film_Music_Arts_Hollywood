@@ -8,13 +8,15 @@
 - Performing Arts have ways to express an opinion, emotion, feeling, or taste, through means of performance, like theater, speech, dance, music, and more. Performing Arts are arts or skills that require a performance in front of an audience. Examples are acting, singing, and dancing. Other forms of the Performing Arts include opera, theater, magic or illusion performances, mime, spoken word, recitation, and speaking. Performing Arts include conveying a message or artistic expression through their dialogue, voice, and their body.
 <br>
 
+### Continue Analysis in the Arts for Solutions
+
 ## <b>Starting Metaphoric Understanding to Cases:</b><br>
 <b>Illustrative of Cases Related to Visual & Performing Arts (Hollywood)</b><br> 
 <i><b>The Process - Orchestra And Gold Film Reel, In Perspective</b></i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Orchestra And Reel, Gold Film.png" height=65% width=65%><br> 
 <i>Artists Centers and Band Instruments for Live Music</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png"><br> 
-<img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=30% width=30%><br>
+<img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=25% width=25%><br>
 
 <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf">Guide Comparison<a>:
 <b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b>
@@ -30,4 +32,3 @@
 ### <b>Magazine Page Layout Guides with Creation Emphasis</b><br>
 <i><b>"Magazine page layout is an art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience. Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework..."<br></i>
 </b>https://azuramagazine.com/articles/magazine-page-layout-what-you-need-to-know
-- Continue for Solutions
