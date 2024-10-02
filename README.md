@@ -18,7 +18,6 @@
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Orchestra And Reel, Gold Film.png" height=65% width=65%><br> 
 <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf">Guide Comparison<a>:
 <b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b>
-<br>
 <br>Maureen O'Hara gladly testified in California's case citing Confidential Magazine and Judge Walker allowed testimony about blackmail. Other pages: Guides, Golden Era Television Writer, Movie Consultant.
 - View on Confidential Magazine Court Case <a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">From Faculty</a>
 - How Language Analalysis Helps Solve Crimes https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
@@ -26,6 +25,6 @@
 - <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives and Monopoly</a>
 - <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a> California Legislation: Faults of investigations with letters - Comparing Potential Witnesses only to Financial Objects<br></i>
 
-## <b>Magazine Page Layout Guides Creation Emphasis</b><br>
+### <b>Magazine Page Layout Guides, Creation Emphasis</b><br>
 <i>Magazine page layout is an art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience. Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework.<br></i>
 https://azuramagazine.com/articles/magazine-page-layout-what-you-need-to-know
