@@ -28,7 +28,7 @@ Beyond a single painting easel...</i>
 - How Language Analysis Helps Solve Crimes https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
 - <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives and Monopoly</a> (Cases)
 - California Legislation Issues: <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
-<br>Faults of investigations with letters - Comparing Potential Witnesses only to Financial Objects<br></i>
+<br>Faults of investigations with letters, Including Comparing Potential Witnesses only to Financial Objects<br></i>
 - American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</a>
 
 ### <b>Magazine Page Layout Guides with Creation Emphasis</b><br>
