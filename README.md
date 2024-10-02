@@ -10,7 +10,7 @@
 
 <b>For Metaphoric Understanding:</b><br>
 <i>Philadelphia Orchestra And Gold Film Reel... to Artists Centers and Live Music</i><br>
-<img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Philadelphia-Orchestra, Gold Film Reel.png" height=65% width=65%><br> 
+<img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Orchestra, Gold Film Reel.png" height=65% width=65%><br> 
 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png" height=80% width=80%><br> 
 
