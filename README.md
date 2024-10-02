@@ -9,9 +9,9 @@
 <br>
 
 <b>For Metaphoric Understanding:</b><br>
-<i>Orchestra And Gold Film Reel In Perspective (the production)</i><br>
+<i>Orchestra And Gold Film Reel In Perspective (the production process)</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Orchestra And Reel, Gold Film.png" height=65% width=65%><br> 
-Artists Centers and Live Music with Band<br>
+<i>Artists Centers and Live Music with Band</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png" height=80% width=80%><br> 
 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=20% width=20%><br>
