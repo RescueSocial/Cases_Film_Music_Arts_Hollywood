@@ -8,7 +8,8 @@
 - Performing Arts have ways to express an opinion, emotion, feeling, or taste, through means of performance, like theater, speech, dance, music, and more. Performing Arts are arts or skills that require a performance in front of an audience. Examples are acting, singing, and dancing. Other forms of the Performing Arts include opera, theater, magic or illusion performances, mime, spoken word, recitation, and speaking. Performing Arts include conveying a message or artistic expression through their dialogue, voice, and their body.
 <br>
 
-## <b>For Metaphoric Understanding Illustrative of Cases Related to Visual & Performing Arts</b><br>
+## Illustrative of Cases Related to Visual & Performing Arts<br>
+<b>For Metaphoric Understanding:</b><br>
 <i>The Process: Orchestra And Gold Film Reel, In Perspective</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Orchestra And Reel, Gold Film.png" height=65% width=65%><br> 
 <i>Artists with Paintings and Band Instruments for Live Music</i><br>
@@ -23,5 +24,5 @@
 - <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives and Monopoly</a>
 - <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a> California Legislation: Faults of investigations with letters - Comparing Potential Witnesses only to Financial Objects<br></i>
 
-<b>Magazine Page Layout Guides Creation Emphasis</b>
+### <b>Magazine Page Layout Guides Creation Emphasis</b><br>
 https://azuramagazine.com/articles/magazine-page-layout-what-you-need-to-know
