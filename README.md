@@ -11,4 +11,6 @@
 <b>For Metaphoric Understanding:</b><br>
 Philadelphia Orchestra And Gold Film Reel<br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Z-Banner-Gold Reel - Philadelphia-Orchestra.png" height=60% width=60%><br>
-<i>Add Other Images</i>
+<i>Add Other Images</i><br>
+
+<img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=60% width=60%><br>
