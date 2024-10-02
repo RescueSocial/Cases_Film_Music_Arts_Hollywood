@@ -15,9 +15,6 @@
 <i>Artists Centers and Band Instruments for Live Music</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png"><br> 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=25% width=25%><br>
-<b>Continue Analysis in the Arts for Solutions</b><br>
-Beyond a single painting easel...</i><br>
-<img src="https://i5.walmartimages.com/asr/de9639da-dd49-44fd-8075-88e6b6eb10ea.396233b3d8c7e17e3fac98289853ebf5.jpeg" height=25% width=25%><br>
 <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf">Guide Comparison<a>:
 <b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b>
 <br>Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
@@ -32,4 +29,8 @@ Beyond a single painting easel...</i><br>
 ### <b>Magazine Page Layout Guides - Creation and Emphasis</b><br>
 <i><b>"Magazine page layout is an Art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience. Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework..."<br></i>
 </b>https://azuramagazine.com/articles/magazine-page-layout-what-you-need-to-know<br>
+
+<b>Continue Analysis in the Arts for Solutions</b><br>
+Beyond a single painting easel...</i><br>
+<img src="https://i5.walmartimages.com/asr/de9639da-dd49-44fd-8075-88e6b6eb10ea.396233b3d8c7e17e3fac98289853ebf5.jpeg" height=25% width=25%><br>
 
