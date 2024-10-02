@@ -27,6 +27,6 @@
 <br>Faults of investigations with letters - Comparing Potential Witnesses only to Financial Objects<br></i>
 - American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</a>
 
-### <b>Magazine Page Layout Guides, Creation Emphasis</b><br>
-<i><b>"Magazine page layout is an art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience. Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework."<br></i>
+### <b>Magazine Page Layout Guides with Creation Emphasis</b><br>
+<i><b>"Magazine page layout is an art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience. Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework..."<br></i>
 </b>https://azuramagazine.com/articles/magazine-page-layout-what-you-need-to-know
