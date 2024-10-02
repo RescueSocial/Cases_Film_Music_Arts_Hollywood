@@ -13,4 +13,4 @@ Philadelphia Orchestra And Gold Film Reel<br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Z-Banner-Gold Reel - Philadelphia-Orchestra.png" height=65% width=65%><br>
 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=15% width=15%><br>
-<i>Related to Cases of Visual & Performing Arts</i>
+<i>Illustrative of Cases Related to Visual & Performing Arts</i>
