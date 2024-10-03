@@ -22,7 +22,7 @@
 <br>Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
 - View on Confidential Magazine Court Case: <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
 <br><i>Maureen O'Hara <b>gladly testified</b> in California's case Citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
-- <i>Monopoly Traits</i>: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a> (Cases to Today)
+- <b>Monopoly Traits</b>: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a> (Cases to Today)
 - How Linguistics Analysis Helps Solve Crimes: https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
 - California Legislation Issues: <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
 <br>Faults of investigations with letters, Including Comparing Potential Witnesses only to Financial Objects<br></i>
