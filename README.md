@@ -11,7 +11,7 @@
 <i>With guides, find elements faster for <b>remedies, for better lives,</b> including <b>improved legislation</b>.</i>
 
 ## <b>Starting Metaphoric Understanding to Cases</b><br>
-<b><i>Illustrative of Cases Related to Visual & Performing Arts (Hollywood)</i></b><br>
+<b>Illustrative of Cases Related to Visual & Performing Arts (Hollywood)</b><br>
 
 <i><b>The Process - Orchestra And Gold Film Reel, In Perspective</b></i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Orchestra And Reel, Gold Film.png" height=65% width=65%><br> 
