@@ -24,9 +24,9 @@
 <br><i>Maureen O'Hara <b>gladly testified</b> in California's case Citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
 - <b><i>Monopoly Traits</b>: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a></i> (Cases to Today)
 - How Linguistics Analysis Helps Solve Crimes: https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
-- California Legislation Issues: <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
+- California Legislation Issues:<i> <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
 <br>Faults of investigations with letters, Including Comparing Potential Witnesses only to Financial Objects<br></i>
-- American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</a>
+- American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</i></a>
 
 ### <b>Magazine Page Layout Guides - Creation and Emphasis</b><br>
 <i><b>"Magazine page layout is an Art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience. Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework..."<br></i>
