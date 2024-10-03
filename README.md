@@ -32,7 +32,7 @@
 <i><b>"Magazine page layout is an Art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience. Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework..."<br></i>
 </b>https://azuramagazine.com/articles/magazine-page-layout-what-you-need-to-know<br>
 
-<center><img src="https://images.unsplash.com/photo-1567284364258-30c429a24b81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8d2VsY29tZSUyMGFib2FyZHx8MHx8fHwxNjE5MzAxMTQ2&ixlib=rb-1.2.1&q=80&w=1080" width=35% height=35%/></center>
+<center><img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/welcome-aboard-life-buoy.jpg" width=35% height=35%/></center>
 
 ### <b>Continue Analysis in the Arts for Solutions</b>
 Beyond a single painting easel...</i><br>
