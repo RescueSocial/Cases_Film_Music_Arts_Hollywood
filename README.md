@@ -36,3 +36,5 @@
 Beyond a single painting easel...</i><br>
 <img src="https://i5.walmartimages.com/asr/de9639da-dd49-44fd-8075-88e6b6eb10ea.396233b3d8c7e17e3fac98289853ebf5.jpeg" height=25% width=25%><br>
 
+<center><img src="https://images.unsplash.com/photo-1567284364258-30c429a24b81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8d2VsY29tZSUyMGFib2FyZHx8MHx8fHwxNjE5MzAxMTQ2&ixlib=rb-1.2.1&q=80&w=1080" width=45% height=45%/></center>
+
