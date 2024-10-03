@@ -1,7 +1,7 @@
 ## California Coercion and Cover-Up Act Outline
 
-California Coercion and Cover-Up Act (Outline):<br>
-This law combines and modifies the New York Coercion Laws (specifically New York Penal Law Section 135.60, 135.65, and 135.75) with a broader definition of a cover-up under California’s Sexual Abuse and Cover-Up Accountability Act (AB 2777). Changes from the New York Extortion Laws, AB 2777, or other laws (e.g., pre-AB 2777 statute of limitations in California) are underlined:
+<b>This law combines and modifies the New York Coercion Laws (specifically New York Penal Law Section 135.60, 135.65, and 135.75) with a broader definition of a cover-up under California’s Sexual Abuse and Cover-Up Accountability Act (AB 2777). Changes from the New York Extortion Laws, AB 2777, or other laws (e.g., pre-AB 2777 statute of limitations in California) are underlined:</b><br>
+
 We aim to enhance protections against coercive tactics that force individuals to withhold testimony or information for legal matters. We are currently addressing critical issues regarding coercion and witness protection laws. By doing so, we hope to align California's laws to better safeguard the rights of victims and witnesses. <b>In contrast, New York law provides clearer definitions of coercion, including protections against the fear of physical injury, property damage, and the withholding of testimony. It is inclusive of “or another will.”</b>
 Additionally, federal regulations exist to address altering of records after an intentional cover-up.<br>
 One of the main challenges is that California lacks specific laws that define the elements of coercion and witness interference. This legal gap has allowed individuals in industries to exploit these ambiguities related to Hollywood. 
