@@ -29,7 +29,7 @@
 - American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</i></a>
 
 ### <b>Magazine Page Layout Guides - Creation and Emphasis</b><br>
-<b>"Magazine page layout is an Art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience.<i> Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework..."<br></i>
+<b>"Magazine page layout <i>is an Art</i> that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience.<i> Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework..."<br></i>
 </b>https://azuramagazine.com/articles/magazine-page-layout-what-you-need-to-know<br>
 
 ### <b>Welcome Aboard Life Buoy</b>
