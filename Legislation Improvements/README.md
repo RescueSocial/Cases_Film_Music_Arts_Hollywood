@@ -2,7 +2,7 @@
 
 California Coercion and Cover-Up Act (Outline):<br>
 This law combines and modifies the New York Coercion Laws (specifically New York Penal Law Section 135.60, 135.65, and 135.75) with a broader definition of a cover-up under California’s Sexual Abuse and Cover-Up Accountability Act (AB 2777). Changes from the New York Extortion Laws, AB 2777, or other laws (e.g., pre-AB 2777 statute of limitations in California) are underlined:
-We aim to enhance protections against coercive tactics that force individuals to withhold testimony or information for legal matters. We are currently addressing critical issues regarding coercion and witness protection laws. By doing so, we hope to align California's laws to better safeguard the rights of victims and witnesses. In contrast, New York law provides clearer definitions of coercion, including protections against the fear of physical injury, property damage, and the withholding of testimony. It is inclusive of “or another will.”
+We aim to enhance protections against coercive tactics that force individuals to withhold testimony or information for legal matters. We are currently addressing critical issues regarding coercion and witness protection laws. By doing so, we hope to align California's laws to better safeguard the rights of victims and witnesses. <b>In contrast, New York law provides clearer definitions of coercion, including protections against the fear of physical injury, property damage, and the withholding of testimony. It is inclusive of “or another will.”<b>
 Additionally, federal regulations exist to address altering of records after an intentional cover-up.<br>
 One of the main challenges is that California lacks specific laws that define the elements of coercion and witness interference. This legal gap has allowed individuals in industries to exploit these ambiguities related to Hollywood. 
 This difference highlights the urgent need for California to strengthen its legal framework.<br>
@@ -24,7 +24,7 @@ Other crimes against the victim or another;<br>
 Criminal accusations against the victim or prosecution of charges against the victim or another;<br>
 Exposing a secret about the victim or another subjecting him or her to "hatred, contempt or ridicule";<br>
 A boycott or other collective action against the victim's business unless the action is for the benefit of the group's interest;<br>
-Testimony against the victim or <b>Witholding testinomy or information in respect to another’s legal claim or defense;</b><br>
+Testimony against the victim or <b>Witholding testimony or information in respect to another’s legal claim or defense;</b><br>
 An official position being used to harm the victim or another;<br>
 Any other act calculated to harm the victim's health, safety, business, calling, career, financial condition, reputation or personal relationships.<br>
 First Degree Coercion: When a person, having committed second-degree coercion, or another actor actually instilled in the victim a fear of physical injury or property damage, or induced the victim to:
