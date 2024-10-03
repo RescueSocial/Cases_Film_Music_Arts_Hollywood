@@ -6,6 +6,7 @@ We aim to enhance protections against coercive tactics that force individuals to
 Additionally, federal regulations exist to address altering of records after an intentional cover-up.<br>
 One of the main challenges is that California lacks specific laws that define the elements of coercion and witness interference. This legal gap has allowed individuals in industries to exploit these ambiguities related to Hollywood. 
 This difference highlights the urgent need for California to strengthen its legal framework.<br>
+<br>
 Third Degree Coercion: When a person compels or induces a person to engage in conduct which the latter has a legal right to abstain from engaging in, or to abstain from engaging in conduct in which he or she has a legal right to engage, or compels or induces a person to join a group, organization or criminal enterprise which such latter person has a right to abstain from joining, or compels or induces a person to produce, disseminate, or otherwise display an image or images depicting nudity of such person or depicting such person engaged in sexual conduct as defined in subdivisions two and three of New York Penal Law Section 235.20, by means of instilling in him or her a fear that, if the demand is not complied with, the actor or another will:
 Cause physical injury to a person; or<br>
 Cause damage to property; or<br>
