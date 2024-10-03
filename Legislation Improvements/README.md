@@ -32,26 +32,27 @@ First Degree Coercion: When a person, having committed second-degree coercion, o
 Commit or attempt to commit a felony;<br>
 Cause or attempt to cause physical injury to another person; or<br>
 Violate his or her duty as a public servant.<br>
+<br>
 Cover-Up: A deliberate effort to hide evidence, information, and testimony relating to (a) in respect to another’s legal claim or defense, (b) an assault, a sexual assault or other sexual misconduct that does ONE of the following:
 incentivizes individuals to be silent and refrain from lawful conduct and having public documentation of the acts<br>
-enacts Destruction, Alteration, or Falsification of Records in respect to coercion of the victim, a witness, or another or the cover-up of conduct related to a legal claim or defense
-prevents information relating to another’s legal claim or defense, an act of coercion, assault, sexual assault or misconduct from being in testimony, in reports, in legal claims or public documents, communicated to others, or being disclosed to the plaintiff or in another’s legal claim
+enacts Destruction, Alteration, or Falsification of Records in respect to coercion of the victim, a witness, or another or the cover-up of conduct related to a legal claim or defense<br>
+prevents information relating to another’s legal claim or defense, an act of coercion, assault, sexual assault or misconduct from being in testimony, in reports, in legal claims or public documents, communicated to others, or being disclosed to the plaintiff or in another’s legal claim<br>
 uses nondisclosure agreements, confidentiality agreements, or agreements to cover-up acts, not to the exclusion of promised benefits<br>
 performs Acts involving Interstate Communications, Travel in Aid of Cover-Up, Destruction, Alteration, or Falsification of Records, Obstruction of Justice, Tampering with a Witness, Victim, or Informant,
 Similar to: 18 U.S.C. § 1519, 18 U.S.C. § 1512(b)(1) and (2), 18 U.S.C. § 1952<br>
-Unlike in the previous definition, the first and third points were required, whereas this version needs just one of them or the fourth bullet point to hold.
-If coercion in the first, second, or third degree or a cover-up as specified above has been committed against the plaintiff, they can bring a case against the perpetrator in court in whichever state the acts took place.
-Even if related victims, witnesses, and legal claims or defenses reside in multiple states, the claims can be pursued even if initiated in, related to, or from California, inclusive of by another actor.
+Unlike in the previous definition, the first and third points were required, whereas this version needs just one of them or the fourth bullet point to hold.<br>
+If coercion in the first, second, or third degree or a cover-up as specified above has been committed against the plaintiff, they can bring a case against the perpetrator in court in whichever state the acts took place.<br>
+Even if related victims, witnesses, and legal claims or defenses reside in multiple states, the claims can be pursued even if initiated in, related to, or from California, inclusive of by another actor.<br>
 Unlike in AB 2777, a cover-up is not exclusive to a civil offense.<br>
-(A) Civil lawsuits can be brought forward with this law in addition to relating personal injuries and lost property, inclusively, as well as to damages in respect to another’s legal claim or defense.
-(B) In criminal codes, like in New York, there is first degree coercion, a class D felony punishable by a sentence of at least 7 to 10 years in prison. In addition, the court may impose a fine which is the greater of $10,000, double the amount of the defendant's gain from commission of the crime, or a more appropriate figure determined by a judge or jury.
-Like in the New York Extortion Laws, second and third degree coercion remain class A misdemeanors and are punishable by a sentence of up to 5 years in prison, a fine of up to $5,000 or a more appropriate figure determined by a judge or jury, or both.
-Even if the victim or another cannot pay for a civil trial or to withstand the coercion with respect to their legal claims or defense, the court is still obligated to pursue and prosecute the perpetrators to the extent of this and any other applicable law.
+(A) Civil lawsuits can be brought forward with this law in addition to relating personal injuries and lost property, inclusively, as well as to damages in respect to another’s legal claim or defense.<br>
+(B) In criminal codes, like in New York, there is first degree coercion, a class D felony punishable by a sentence of at least 7 to 10 years in prison. In addition, the court may impose a fine which is the greater of $10,000, double the amount of the defendant's gain from commission of the crime, or a more appropriate figure determined by a judge or jury.<br>
+Like in the New York Extortion Laws, second and third degree coercion remain class A misdemeanors and are punishable by a sentence of up to 5 years in prison, a fine of up to $5,000 or a more appropriate figure determined by a judge or jury, or both.<br>
+Even if the victim or another cannot pay for a civil trial or to withstand the coercion with respect to their legal claims or defense, the court is still obligated to pursue and prosecute the perpetrators to the extent of this and any other applicable law.<br>
 The statute of limitations on all these crimes is the broadest of the following periods:<br>
 within twenty years of the perpetrator’s last act of cover-up with respect to the victim or another's attempted or existing legal claim or defense, inclusive of witnesses and assaults, with an act of coercion against the victim or another which benefit the actor or another.
 A benefit does not need to be received exclusively by the actor, but can be for another actor, inclusively.<br>
-within ten years from the date that the victim discovered or reasonably should have discovered an injury or illness that resulted from those harmful acts
+within ten years from the date that the victim discovered or reasonably should have discovered an injury or illness that resulted from those harmful acts<br>
 within a five-year window after this law is enacted regardless of when the initial crime took place<br>
-Unlike AB 2777, this act covers “claims that were brought against a public entity, claims that have been litigated to finality in a court of competent jurisdiction before January 1, 2020, and any claims that have been compromised by a written settlement agreement between the parties entered into before January 1, 2020.”
-(C) Coercion, applicable to this law, effectively makes forced settlements and forced declarations, inclusive of affidavits not filed in court, null and void, allowing victims to pursue their claims.
+Unlike AB 2777, this act covers “claims that were brought against a public entity, claims that have been litigated to finality in a court of competent jurisdiction before January 1, 2020, and any claims that have been compromised by a written settlement agreement between the parties entered into before January 1, 2020.”<br>
+(C) Coercion, applicable to this law, effectively makes forced settlements and forced declarations, inclusive of affidavits not filed in court, null and void, allowing victims to pursue their claims.<br>
 Any detail that isn’t specified here is elaborated further in AB 2777 and the New York Laws themselves.
