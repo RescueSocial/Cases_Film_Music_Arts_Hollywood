@@ -1,4 +1,4 @@
-These two essays argue for stronger legal protections against sexual misconduct and coercion in the entertainment industry, particularly in Hollywood, by proposing a "California Coercion and Cover-Up Act."
+These two essays argue for stronger legal protections against misconduct and coercion in the entertainment industry, particularly in Hollywood, by proposing a "California Coercion and Cover-Up Act."
 
 ## Understanding the Human Cost
 
