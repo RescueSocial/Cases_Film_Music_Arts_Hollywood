@@ -23,7 +23,7 @@
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=25% width=25%><br>
 
 <b>Two Preliminary Analysis Essays on Cases from Interns</b>: <br>
-Understanding the Human Cost<br>
+<i>Understanding the Human Cost</i><br>
 Both essays demonstrate deep concern for victims within the entertainment industry. They recognize that behind every case discussed are real people whose lives, careers, and wellbeing have been profoundly impacted by abuse and the systematic efforts to silence them. The authors emphasize that these victims have faced not only the original trauma of misconduct but also the additional harm of intimidation and deliberate attacks on their personal integrity and moral standing designed to prevent them from seeking justice. The essays acknowledge the courage it takes for survivors to come forward, especially given the power imbalances and culture of retaliation that has historically necessitated comprehensive legislative reform and adequate resources to support victims through the process.<br>
 
 <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf">Guide Comparison<a>:
@@ -31,7 +31,7 @@ Both essays demonstrate deep concern for victims within the entertainment indust
 <br>Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
 - How Linguistics Analysis Helps Solve Crimes: https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
 - Golden Era: "Everett Debaun, now a Successful Television Writer... <i>Debaun's discussion: Legislative tactics which increase the risks of detection and apprehension.
- He indicates that shifts in the form of have occurred in the United States as a response to such developments as... statues regarding... In these Cases, risks of certain crimes have been Perceived by professional heavies as too great in relation to... returns so that they have turned to other "low risk" kinds... is one Case illustration."</i>
+ He indicates that shifts in the form of have occurred in the United States as a response to such developments as statues regarding... In these Cases, risks of certain crimes have been Perceived by professional heavies as too great in relation to returns so that they have turned to other "low risk" kinds, is one Case illustration."</i>
 <br><b>Television Writer</b> Contributed to <a href="https://www.google.com/search?q=Everett+DeBaum+criminology&sca_esv=685035f3b39efb62&sca_upv=1&biw=1242&bih=552&tbm=bks&sxsrf=ADLYWIIBvt2jQ1ZskPMwl6soP4-TDdvBPQ%3A1727609933932&ei=TTz5ZtXMOKzm0PEPtouhgQU&ved=0ahUKEwiVp7DDiOiIAxUsMzQIHbZFKFAQ4dUDCAk&uact=5&oq=Everett+DeBaum+criminology&gs_lp=Eg1nd3Mtd2l6LWJvb2tzIhpFdmVyZXR0IERlQmF1bSBjcmltaW5vbG9neUjVBlCRBFiRBHAAeACQAQCYAdcDoAHSBKoBBzAuMS40LTG4AQPIAQD4AQGYAgGgAuEDwgIEECEYCpgDAIgGAZIHAzQtMaAHsAI&sclient=gws-wiz-books">Criminology Guides</a> - Motion Picture: Changing the Lawbreaker. 
 - California Legislation Issues:<i> <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
 <br>Faults of investigations with letters, Including Comparing Potential Witnesses only to Financial Objects<br>
