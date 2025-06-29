@@ -5,6 +5,7 @@
 
 - View on Confidential Magazine Court Case: <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
 <br><i>Maureen O'Hara <b>gladly testified</b> in California's case Citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
+- <b><i>Monopoly Traits Increasing Fixed Cases</b>: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a></i> (Harmed Cases to Today)
 
 # Visual and Performing Arts Overview:
 - <b>The Visual Arts</b> gives a way to express feeling, emotion, opinion, or taste through visual means, for instance, photography, painting, sculpting, and drawing. Visual Arts are primarily created for Aesthetic Purposes. Visual Arts include painting, sculpture, watercolor, graphics, drawing, and architecture. Also in the Visual Arts category is music, poetry, film, photography, conceptual art, and printmaking.
@@ -28,7 +29,6 @@ Both essays demonstrate deep concern for the victims who have suffered in silenc
 <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf">Guide Comparison<a>:
 <b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b>
 <br>Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
-- <b><i>Monopoly Traits Increasing Fixed Cases</b>: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a></i> (Harmed Cases to Today)
 - How Linguistics Analysis Helps Solve Crimes: https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
 - Golden Era: "Everett Debaun, now a Successful Television Writer... <i>Debaun's discussion: Legislative tactics which increase the risks of detection and apprehension.
  He indicates that shifts in the form of have occurred in the United States as a response to such developments as... statues regarding... In these Cases, risks of certain crimes have been Perceived by professional heavies as too great in relation to... returns so that they have turned to other "low risk" kinds... is one Case illustration."</i>
