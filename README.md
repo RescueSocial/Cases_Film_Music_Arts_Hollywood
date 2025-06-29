@@ -18,7 +18,7 @@
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png"><br> 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=25% width=25%><br>
 
-<b>Two Preliminary Analysis Essays on Cases from Interns</b>: 
+<b>Two Preliminary Analysis Essays on Cases from Interns</b>: <br>
 Understanding the Human Cost<br>
 Both essays demonstrate deep concern for the victims who have suffered in silence for decades within the entertainment industry. They recognize that behind every case discussed are real people whose lives, careers, and wellbeing have been profoundly impacted by abuse and the systematic efforts to silence them. The authors emphasize that these victims have faced not only the original trauma of misconduct but also the additional harm of intimidation and deliberate attacks on their personal integrity and moral standing designed to prevent them from seeking justice. The essays acknowledge the courage it takes for survivors to come forward, especially given the power imbalances and culture of retaliation that has historically necessitated comprehensive legislative reform and adequate resources to support victims through the legal process.<br>
 
