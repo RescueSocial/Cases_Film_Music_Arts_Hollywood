@@ -1,7 +1,7 @@
 # Cases Film, Music, Arts, Hollywood
 515 Cases in Film, Music, Arts, Hollywood - Analysis to Support Legislative Improvements and Services<br>
 We're the first to provide comprehensive case analysis for the **artistic/creative** category that is accessible and designed to help people create meaningful change. Creatives have long been an underserved community, facing unique vulnerabilities and limited access to traditional support systems that others typically enjoy. 
-- Cases Overview: 416 Hollywood Cases in "All Cases Database" and 99 Control Group Cases in "Control Group Cases"
+- Cases Overview: 416 Arts Cases in "All Cases Database" and 99 Control Group Arts Cases in "Control Group Cases"
 
 **Empowering Artists in Creative Communities**<br>
 The arts are the heartbeat of human expression, and every artist deserves a supportive environment where their creativity can flourish. We understand that artists pour their souls into their work, often navigating unique emotional and professional challenges that require spaces built on trust, respect, and genuine connection. A community should nurture meaningful relationships that nurture both artistic excellence and personal wellbeing. By championing environments where artists feel valued for their whole selves—not just their output—we help cultivate the conditions where true artistry can emerge and thrive in a community rooted in dignity, support, and shared passion for the transformative power of the arts.
