@@ -17,6 +17,8 @@
 <i>Artists Centers and Band Instruments for Live Music</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png"><br> 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=25% width=25%><br>
+- View on Confidential Magazine Court Case: <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
+<br><i>Maureen O'Hara <b>gladly testified</b> in California's case Citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
 
 <b>Two Preliminary Analysis Essays on Cases from Interns</b>: <br>
 Understanding the Human Cost<br>
@@ -25,8 +27,6 @@ Both essays demonstrate deep concern for the victims who have suffered in silenc
 <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf">Guide Comparison<a>:
 <b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b>
 <br>Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
-- View on Confidential Magazine Court Case: <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
-<br><i>Maureen O'Hara <b>gladly testified</b> in California's case Citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
 - <b><i>Monopoly Traits Increasing Fixed Cases</b>: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a></i> (Harmed Cases to Today)
 - How Linguistics Analysis Helps Solve Crimes: https://www.verbolabs.com/the-science-of-linguistic-forensics-how-language-analysis-helps-solve-crimes
 - Golden Era: "Everett Debaun, now a Successful Television Writer... <i>Debaun's discussion: Legislative tactics which increase the risks of detection and apprehension.
@@ -37,7 +37,7 @@ Both essays demonstrate deep concern for the victims who have suffered in silenc
 - Discussion in American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</i></a>
 
 **Protecting Victims, Demanding Justice: The Case for California's Coercion and Cover-Up Act**
-<b>In Interns' Essays:</b> From Fred Otash's illegal wiretapping of Marilyn Monroe to modern cases like the intimidation of journalist Anita Busch, these comprehensive essays reveal how victims face not only initial trauma but systematic campaigns to destroy their credibility and silence their voices. Through detailed case studies—including Errol Flynn's 1940s abuses, John Stamos's admitted deception, and the paradox of abuse advocate Eric Schneiderman facing his own accusations—the authors demonstrate that California's current legal framework is inadequate compared to New York's stronger protections. The proposed California Coercion and Cover-Up Act would address these critical gaps by criminalizing character assassination tactics and providing comprehensive resources for survivors, ensuring that "the silenced victims who underpin the Hollywood empire can get the justice they deserve and that future victims can be more vocal and victorious in holding their perpetrators accountable."
+<b>In Interns' Essays:</b> From Fred Otash's illegal wiretapping of Marilyn Monroe to modern cases like the intimidation of journalist Anita Busch, these comprehensive essays reveal how victims face not only initial trauma but systematic campaigns to silence their voices. Through detailed case studies—including Errol Flynn's 1940s abuses, John Stamos's admitted deception, and the paradox of abuse advocate Eric Schneiderman facing his own accusations—the authors demonstrate that California's current legal framework is inadequate compared to New York's stronger protections. The proposed California Coercion and Cover-Up Act would address these critical gaps by criminalizing character assassination tactics and providing comprehensive resources for survivors, ensuring that "the silenced victims who underpin the Hollywood empire can get the justice they deserve and that future victims can be more vocal and victorious in holding their perpetrators accountable."
 
 ### <b>Magazine Page Layout Guides - Creation and Emphasis</b><br>
 <b><i>"Magazine page layout is an Art that balances aesthetics and functionality. Organizing a page’s text, images, and other graphic elements creates an engaging and readable experience.<i> Key considerations include hierarchy, which guides readers through the content effectively, and grid systems, which provide a structured framework..."<br></i>
