@@ -1,7 +1,7 @@
 # Cases Film, Music, Arts, Hollywood
 <b>515 Cases in Film, Music, Arts, Hollywood -<i> Analysis to Support Legislative Improvements and Services.</i></b> 
 <br /> 416 Hollywood Cases in "All Cases Database" including 99 Control Group Cases in "Control Group Cases".
-<br>We are the first to do case analysis in the <b>artistic/creative</b> category that is accessible for improvements to help people. 
+<br>We are the first to do case analysis in the <b>artistic/creative</b> category that is accessible for improvements to help people.  
 
 # Visual and Performing Arts Overview:
 - <b>The Visual Arts</b> gives a way to express feeling, emotion, opinion, or taste through visual means, for instance, photography, painting, sculpting, and drawing. Visual Arts are primarily created for Aesthetic Purposes. Visual Arts include painting, sculpture, watercolor, graphics, drawing, and architecture. Also in the Visual Arts category is music, poetry, film, photography, conceptual art, and printmaking.
