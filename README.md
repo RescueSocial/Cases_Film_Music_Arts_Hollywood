@@ -3,9 +3,12 @@
 <br /> 416 Hollywood Cases in "All Cases Database" including 99 Control Group Cases in "Control Group Cases".
 <br>We are the first to do case analysis in the <b>artistic/creative</b> category that is accessible for improvements to help people.  
 
+- View on Confidential Magazine Court Case: <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
+<br><i>Maureen O'Hara <b>gladly testified</b> in California's case Citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
+
 # Visual and Performing Arts Overview:
 - <b>The Visual Arts</b> gives a way to express feeling, emotion, opinion, or taste through visual means, for instance, photography, painting, sculpting, and drawing. Visual Arts are primarily created for Aesthetic Purposes. Visual Arts include painting, sculpture, watercolor, graphics, drawing, and architecture. Also in the Visual Arts category is music, poetry, film, photography, conceptual art, and printmaking.
-- <b>Performing Arts</b> have ways to express an opinion, emotion, feeling, or taste, through means of performance, like theater, speech, dance, music, and more. Performing Arts are arts or skills that require a performance in front of an audience. Examples are acting, singing, and dancing. Other forms of the Performing Arts include opera, theater, magic or illusion performances, mime, spoken word, recitation, and speaking. Performing Arts include conveying a message or artistic expression through their dialogue, voice, and their body. 
+- <b>Performing Arts</b> have ways to express an opinion, emotion, feeling, or taste, through means of performance, like theater, speech, dance, music, and more. Performing Arts are arts or skills that require a performance in front of an audience. Examples are acting, singing, and dancing. Other forms of the Performing Arts include opera, theater, magic or illusion performances, mime, spoken word, recitation, and speaking. Performing Arts include conveying a message or artistic expression through their dialogue, voice, body. 
 
 ### Supporting Legislative Improvements</i>
 <i>With guides, find elements faster for <b>remedies, for better lives,</b> including <b>improved legislation</b>.</i>
@@ -17,8 +20,6 @@
 <i>Artists Centers and Band Instruments for Live Music</i><br>
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png"><br> 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=25% width=25%><br>
-- View on Confidential Magazine Court Case: <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
-<br><i>Maureen O'Hara <b>gladly testified</b> in California's case Citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
 
 <b>Two Preliminary Analysis Essays on Cases from Interns</b>: <br>
 Understanding the Human Cost<br>
