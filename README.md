@@ -1,6 +1,6 @@
 # Cases Film, Music, Arts, Hollywood
 515 Cases in Film, Music, Arts, Hollywood - Analysis to Support Legislative Improvements and Services<br>
-We're the first to provide comprehensive case analysis for the **artistic/creative** category that is accessible and designed to help people, to create meaningful change for them. Creatives, needing sympathy, have long been an underserved community, facing unique vulnerabilities and limited access to traditional support systems that others typically enjoy. 
+We're the first to provide comprehensive case analysis for the **artistic/creative** category that is accessible and designed to help people, to create meaningful change for them. Creatives have long been an underserved community, facing unique vulnerabilities and limited access to traditional support systems that others typically enjoy. 
 - Cases Overview: 416 Arts Cases in "All Cases Database" and 99 Control Group Arts Cases in "Control Group Cases"
 
 **Empowering Artists in Creative Communities**<br>
