@@ -32,7 +32,7 @@ Both essays demonstrate deep concern for victims within the entertainment indust
 <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/Linguistics%20Compared%20to%20Investigations%2C%20Hollywood%2C%20Legislation%2C%20Witness%20Testimony.pdf">Guide Comparison<a>:
 <b>Linguistics Compared to Hollywood, Legislation, Investigations, and Witness Testimony</b>
 <br>Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
-- Awareness of Legislation and Objects Issues:<i> <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
+- Awareness of Legislation and Synonyms:<i> <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
 <br>Faults of investigations with objects, letters, Including Comparing Potential Witnesses only to Financial Objects: <b>Creatives often use synonyms to describe the same experience.</b> Lived experiences and personal autonomy must take precedence in investigations, rather than allowing objects like letters, emails, and audio tapes to reduce human vicims and witnesses to mere objects that undermine their dignity and agency. </i><br>
 - Discussion in American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</i></a>
 
