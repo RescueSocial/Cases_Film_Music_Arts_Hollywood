@@ -25,7 +25,7 @@ The arts are the heartbeat of human expression, and every artist deserves a supp
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/montmartre artists centers.png"><br> 
 <img src="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/blob/main/rock band instruments-music-live-music.jpg" height=25% width=25%><br>
 
-<b>Two Preliminary Analysis Essays on Cases from Interns</b>: <br>
+<b>Two Preliminary Analysis <a href="https://github.com/RescueSocial/Cases_Film_Music_Arts_Hollywood/tree/main/Preliminary%20Historical%20Analysis%20Essays">Essays on Cases from Interns</a></b>: <br>
 <i>Understanding the Human Cost</i><br>
 Both essays demonstrate deep concern for victims within the entertainment industry. They recognize that behind every case discussed are real people whose lives, careers, and wellbeing have been profoundly impacted by abuse and the systematic efforts to silence them. The authors emphasize that these victims have faced not only the original trauma of misconduct but also the additional harm of intimidation and deliberate attacks on their personal integrity and moral standing designed to prevent them from seeking justice. The essays acknowledge the courage it takes for survivors to come forward, especially given the power imbalances and culture of retaliation that has historically necessitated comprehensive legislative reform and adequate resources to support victims through the process.<br>
 
