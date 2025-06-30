@@ -8,7 +8,7 @@ The arts are the heartbeat of human expression, and every artist deserves a supp
 
 - A transformative guide is understanding the dillemas from the Confidential and Hollywood Research Case: <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
 <br><i>Maureen O'Hara <b>gladly testified</b> in California's case Citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
-- <b><i>Monopoly Traits Increasing Fixed Cases</b>: <a href="https://www.frontpagedetectives.com/celebrity-justice">front page</a></i>
+- <b><i><a href="https://www.frontpagedetectives.com/celebrity-justice">Monopoly Traits</a> Increasing Fixed Cases - front page</b></i>
 
 # Visual and Performing Arts Overview:
 - <b>The Visual Arts</b> gives a way to express feeling, emotion, opinion, or taste through visual means, for instance, photography, painting, sculpting, and drawing. Visual Arts are primarily created for Aesthetic Purposes. Visual Arts include painting, sculpture, watercolor, graphics, drawing, and architecture. Also in the Visual Arts category is music, poetry, film, photography, conceptual art, and printmaking.
