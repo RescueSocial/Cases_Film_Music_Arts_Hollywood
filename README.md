@@ -34,6 +34,7 @@ Both essays demonstrate deep concern for victims within the entertainment indust
 <br>Other pages: Guides, Golden Era Television Writer, Movie Consultant. (Case Given)
 - California Legislation Issues:<i> <a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">Faults with Lindbergh Case.</a>
 <br>Faults of investigations with letters, Including Comparing Potential Witnesses only to Financial Objects<br>
+Lived experiences and personal autonomy must take precedence in investigations, rather than allowing objects like letters, emails, and audio tapes to reduce human witnesses to mere objects and undermine their dignity and agency.<br>
 - Discussion in American Language Supplement <a href="https://www.google.com/books/edition/American_Language_Supplement_2/G-WrlQMn8OYC?hl=en&gbpv=0&bsq=everett%20debaun">(Book)</i></a>
 
 **Protecting Victims, Demanding Justice: The Case for California's Coercion and Cover-Up Act**
