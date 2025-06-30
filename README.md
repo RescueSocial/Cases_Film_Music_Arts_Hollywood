@@ -6,7 +6,7 @@ We're the first to provide comprehensive case analysis for the **artistic/creati
 **Empowering Artists in Creative Communities**<br>
 The arts are the heartbeat of human expression, and every artist deserves a supportive environment where their creativity can flourish. We understand that artists pour their souls into their work, often navigating unique emotional and professional challenges that require spaces built on trust, respect, and genuine connection. A community should nurture meaningful relationships that nurture both artistic excellence and personal wellbeing. By championing environments where artists feel valued for their whole selves—not just their output—we help cultivate the conditions where true artistry can emerge and thrive in a community rooted in dignity, support, and shared passion for the transformative power of the arts.
 
-- A transformative guide is understanding the Confidential Magazine Court Case: <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
+- A transformative guide is understanding the Confidential/Hollywood Research Case: <i><a href="http://law2.umkc.edu/faculty/PROJECTS/FTRIALS/confidential/confidentialaccount.html">"Confidential" Account</a></i>
 <br><i>Maureen O'Hara <b>gladly testified</b> in California's case Citing Confidential Magazine and Judge Walker allowed testimony about blackmail.</i>
 - <b><i>Monopoly Traits Increasing Fixed Cases</b>: <a href="https://www.frontpagedetectives.com/celebrity-justice">Front Page Detectives</a></i> (Harmed Cases to Today)
 
